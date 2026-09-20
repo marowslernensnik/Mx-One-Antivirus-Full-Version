@@ -234,4 +234,4 @@ This repository serves as the official landing page for Mx One Antivirus. The so
 **Get the most recent version of Mx One Antivirus today!**
 
 ---
-**Last updated:** 2026-09-19 22:00:55 UTC
+**Last updated:** 2026-09-20 00:32:31 UTC
